@@ -1,5 +1,6 @@
 SEGA
 Sunset Riders
+Streets Of Rage
 Contra Hard Corps
 Ultimate Mortal Kombat
 Urban Striker
@@ -12,11 +13,14 @@ Pepsiman
 
 PS2
 WWF Smackdown Here Comes The Pain
+GTA San Andreas 
 
 PC
 GTA
 Prince Of Persia The Lost Crown
+Streets Of Rage 4
 It takes Two
+Streets Of Rage Remake 5.2
 Red Dead Redemption 2
 The Last Of Us
 Detroit Become Human
@@ -32,3 +36,4 @@ Monopoly
 Paint Ball
 UNO
 
+Papers, Please
